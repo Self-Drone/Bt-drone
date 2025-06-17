@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD3.3v88D-C
+D Transient Voltage Suppressors for ESD Protection 100 Watts Working voltages :3.3V, 5V
+K
+F https://www.alldatasheet.com/datasheet-pdf/download/580968/SOCAY/ESD3.3V88D-C.html
+$ENDCMP
+#
+#End Doc Library
