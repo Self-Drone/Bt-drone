@@ -1,0 +1,3 @@
+1SS404 is a schotty diode. 
+
+datasheet: https://datasheet.octopart.com/1SS404%2CH3F%28T-Toshiba-datasheet-141356018.pdf 
